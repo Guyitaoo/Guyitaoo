@@ -4,5 +4,5 @@
 #### About Me
 * 📚 Zhejiang University of Technology Physics '29
 * ❤️ Interests: AI for Science | Large Language Models | AI Workflow
-* 💬 Welcome to my blog: guyitao.me
-* 📫 Email me at: guyitao12@qq.com
+* 💬 Welcome to my blog: [guyitao.me](https://guyitao.me)
+* 📫 Email me at: [guyitao12@qq.com](mailto://guyitao12@qq.com)
